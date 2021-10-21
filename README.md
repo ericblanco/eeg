@@ -1,7 +1,7 @@
 # eeg-rsenet
 Motor Imagery EEG Classification Using Random Subspace Ensemble Network with Variable Length Features
 
-email: zabiralnazi@yahoo.com
+email: eric@ericblanco.com
 
 Running Matlab Scripts: https://youtu.be/AeRMO98-URc
 
@@ -18,7 +18,7 @@ There are motor imagery EEG classification code for 3 projects in this repositor
 Citation(s): 
 
 ```
-Zabir Al Nazi, A. B. M. Aowlad Hossain, Md. Monirul Islam (2021) Motor Imagery EEG Classification Using Random Subspace Ensemble Network with Variable Length Features, Int J Bioautomation, 25 (1), 13-24, doi: 10.7546/ijba.2021.25.1.000611
+Eric Blanco Motor Imagery EEG Classification Using Random Subspace Ensemble Network with Variable Length Features, Int J Bioautomation, 25 (1), 13-24, doi: 10.7546/ijba.2021.25.1.000611
 ```
 
 ```
@@ -33,7 +33,7 @@ doi: 10.7546/ijba.2021.25.1.000611
 ```
 @article{al2021motor,
   title={Motor Imagery EEG Classification Using Random Subspace Ensemble Network with Variable Length Features},
-  author={Al Nazi, Zabir and Hossain, ABM Aowlad and Islam, Md Monirul},
+  author={Eric Blanco, ABM Aowlad and Islam, Md Monirul},
   journal={International Journal Bioautomation},
   volume={25},
   number={1},
@@ -46,7 +46,7 @@ doi: 10.7546/ijba.2021.25.1.000611
 ```
 @inproceedings{shovon2019classification,
   title={Classification of motor imagery eeg signals with multi-input convolutional neural network by augmenting stft},
-  author={Shovon, Tanvir Hasan and Al Nazi, Zabir and Dash, Shovon and Hossain, Md Foisal},
+  author={Shovon, Tanvir Hasan and Al Nazi, Eric Blancoand Dash, Shovon and Hossain, Md Foisal},
   booktitle={2019 5th International Conference on Advances in Electrical Engineering (ICAEE)},
   pages={398--403},
   year={2019},
